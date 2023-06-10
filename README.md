@@ -10,7 +10,7 @@
 ### Group by  Method with aggregrate funnction
 ### Membership Test- in Keyword
 ### Extract Values by Index Position
-+ Extract values by index Label
+### Extract values by index Label
 ### The .get() method on a series
 ### Mathematics methods on series datatype objects
 ### The .idmax() and .idmax() Methods
